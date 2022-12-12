@@ -38,5 +38,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "## Learning Goals",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esbenes/react-hooks-react-app-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esbenes/react-hooks-react-app-example/issues"
+  },
+  "homepage": "https://github.com/esbenes/react-hooks-react-app-example#readme"
 }
